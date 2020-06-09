@@ -10,9 +10,8 @@ In the consequence, I gave 40,000 minutes of WAV audio recordings to my students
 
 Additionally, a group of regional specialised ornithologists also made a survey in the same sites, so the competitive challenge could start!  
 
-|Site|Students|Auto-ID|Specialists|
-|1|-|-||x|
-
+| Site | Students | Auto-ID | Specialists |
+| 1 | - | - | x |
 
 
 The students found Pygmy Owl vocalisations in all sites except one 
