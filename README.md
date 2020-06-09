@@ -11,15 +11,20 @@ In the consequence, I gave 40,000 minutes of WAV audio recordings to my students
 Additionally, a group of regional specialised ornithologists also made a survey in the same sites, so the competitive challenge could start!  
 
 | Site | Students | Auto-ID | Specialists |
-| 1 | - | - | x |
-
-| BUTTON | TEENSY PIN | BUTTON NAME in code | DESCRIPTION | 
 | --- | --- | --- | --- |
-| B1 | pin 33 | button1 | band- |
-| B2 | pin 34 | button2 | band+ |
-| B3 | pin 35 | button3 | change mode |
-| B4 | pin 36 | button4 | menu point- |
-| B5 | pin 37 | button7 | menu point+ |
+| 1 | - | - | x |
+| 2 | - | - | x |
+| 3 | - | - | x |
+| 4 | - | - | x |
+| 5 | - | - | x |
+| 6 | - | - | x |
+| 7 | - | - | x |
+| 8 | - | - | x |
+| 9 | - | - | x |
+| 10 | - | - | x |
+| 11 | - | - | x |
+| 12 | - | - | x |
+
 
 The students found Pygmy Owl vocalisations in all sites except one 
 
