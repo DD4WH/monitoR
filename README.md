@@ -10,6 +10,8 @@ In the consequence, I gave 40,000 minutes of WAV audio recordings to my students
 
 Additionally, a group of regional specialised ornithologists also made a survey in the same sites, so the competitive challenge could start!  
 
+*And here are the results!*
+
 | Site | Students | Auto-ID | Specialists |
 | --- | --- | --- | --- |
 | 1 | x | x | - |
@@ -26,8 +28,9 @@ Additionally, a group of regional specialised ornithologists also made a survey 
 | 11 | - | - | - |
 | 12 | - | x | x |
 
+The three methods seem to be equally suited to discover Pygmy Owl!
 
-The students found Pygmy Owl vocalisations in all sites except one 
+BUT: they are also complementary! So, I recommend a combination of ornithological work in the field with Auto-ID of recordings from the field.  
 
 Time-scheduled recordings of animal vocals with subsequent automatic classification can deliver a nice piece of additoonal information and can largely save time and money for nature conservation work! 
 
