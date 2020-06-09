@@ -1,6 +1,6 @@
 # Sperlingskauz - Projekt 2020
 
-Covid-19 prevented me from teaching my students in practical zoological exercises and in ornithological field excursions. In March 2020 in Germany, leaving the house was only possible for doing sports and buying food.
+Covid-19 prevented me from teaching my students in practical zoological exercises and in ornithological field excursions this spring. In March 2020 in Germany, leaving the house was only possible for doing sports and buying food.
 
 So, I thought: lets do some sports! I left my house for sports, entered the huge mixed forest behind our house and put out twelve time-scheduled audio recorders for about one week.
 
