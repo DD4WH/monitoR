@@ -32,7 +32,7 @@ The three methods seem to be equally suited to discover Pygmy Owl!
 
 BUT: they are also complementary! So, I recommend a combination of ornithological work in the field with Auto-ID of recordings from the field.  
 
-Time-scheduled recordings of animal vocals with subsequent automatic classification can deliver a nice piece of additoonal information and can largely save time and money for nature conservation work! 
+Time-scheduled recordings of animal vocals with subsequent automatic classification can deliver a nice piece of additional information and can largely save time and money for nature conservation work! 
 
 Also, it can help to keep students doing valuable stuff in Covid-19 situations :-).
 
