@@ -12,18 +12,19 @@ Additionally, a group of regional specialised ornithologists also made a survey 
 
 | Site | Students | Auto-ID | Specialists |
 | --- | --- | --- | --- |
-| 1 | - | - | x |
-| 2 | - | - | x |
-| 3 | - | - | x |
-| 4 | - | - | x |
-| 5 | - | - | x |
+| 1 | x | x | - |
+| 2 | - | - | - |
+| 3 | x | x | - |
+| 4 | x | x | - |
+| 5 | x | x | x |
+| 5b | x | x | x |
 | 6 | - | - | x |
-| 7 | - | - | x |
-| 8 | - | - | x |
-| 9 | - | - | x |
-| 10 | - | - | x |
-| 11 | - | - | x |
-| 12 | - | - | x |
+| 7 | x | - | ? |
+| 8 | ? | - | x |
+| 9 | - | - | - |
+| 10 | - | ? | x |
+| 11 | - | - | - |
+| 12 | - | x | x |
 
 
 The students found Pygmy Owl vocalisations in all sites except one 
