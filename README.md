@@ -38,4 +38,4 @@ Also, it can help to keep students doing valuable stuff in Covid-19 situations :
 
 This github repository contains the code used for doing the auto-ID part of this fun and educational project.
 
-HAVE A LOOK AT THE DETAILED INFORMATION IN THE WIKI ! [HERE]
+HAVE A LOOK AT THE DETAILED INFORMATION IN THE WIKI ! [https://github.com/DD4WH/monitoR/wiki]
